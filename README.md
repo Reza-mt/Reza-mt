@@ -1,6 +1,6 @@
 # 💫 About Me:
 My Name Is Reza Im 25 y.o<br>
-📖 I'm Currently Learning Flutter <br>🔍 I'm Currently Searching for New Things of technology<br>🤝 I’m looking for help with Flutter and Dart<br>💬 Ask me about javascript , Reac.js  and  Fun things<br>
+📖 I'm Currently Learning React & Redux <br>🔍 I'm Currently Searching for New Things of technology<br>💬 Ask me about javascript , Reac.js  and  Fun things<br>
 
 
 ## 🌐 Socials:
